@@ -3,7 +3,7 @@ BananaJS Makes NPM Packages
 ## Packages That We made
 
 ```bash
-npm i @bananajs/bananajs
+npm i @sillyangel/bananajs
 ```
 
 
